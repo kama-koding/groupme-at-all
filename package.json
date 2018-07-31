@@ -33,3 +33,5 @@
     "prettier": "^1.7.4"
   }
 }
+echo package-lock=false>.npmrc
+echo package-lock.json>.gitignore
